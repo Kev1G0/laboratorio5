@@ -1,0 +1,57 @@
+body{ 
+    background-color: sienna;
+}
+section{
+    background-color: bisque;
+}
+section h1{
+    text-align: center;
+    color:darkgoldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+section h2{
+    color:darkgreen;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section p{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1px;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+    text-align: center;
+
+}
+ footer a{
+    color: yellow;
+    
+}
+a{
+    color: blue;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    color:green;
+    font-size: 17px;
+
+}
+p{
+    color:green;
+     font-size: 17px;
+}
+text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
